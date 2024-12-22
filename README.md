@@ -1,0 +1,1 @@
+A Discord bot created for a friend to help with server management and utility, created back in 2020. The code no longer works and the bot is no longer up, but it is here as an archive of past coding memories.
